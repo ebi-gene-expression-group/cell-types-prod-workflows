@@ -1,0 +1,2 @@
+# cell-types-prod-workflows
+Higher-level repo containing individual workflows for predicting cell type labels on novel scRNAseq data. Please refer to the documentation of individual submodules and corresponding CLI tools/packages for more information.
