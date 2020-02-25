@@ -1,0 +1,12 @@
+[submodule "garnett-prod-workflow"]
+	path = garnett-prod-workflow
+	url = https://github.com/ebi-gene-expression-group/garnett-prod-workflow
+	branch = develop
+[submodule "scpred-prod-workflow"]
+	path = scpred-prod-workflow
+	url = https://github.com/ebi-gene-expression-group/scpred-prod-workflow
+	branch = develop
+[submodule "scmap-prod-workflow"]
+	path = scmap-prod-workflow
+	url = https://github.com/ebi-gene-expression-group/scmap-prod-workflow
+	branch = develop
